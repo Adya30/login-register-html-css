@@ -21,10 +21,17 @@ This project is a **modern Login and Register user interface** built using **HTM
 - **Google Fonts (Poppins)**
 
 ## 📂 Project Structure
+
 📦 login-register-html-css
+
 ┣ 📂 asset
+
 ┃ ┗ 📜 icon.svg
+
 ┣ 📜 index.html
+
 ┣ 📜 style.css
+
 ┣ 📜 script.js
+
 ┗ 📜 README.md
